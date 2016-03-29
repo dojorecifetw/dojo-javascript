@@ -1,0 +1,28 @@
+{
+  "name": "dojo-jc-program-js",
+  "version": "1.0.0",
+  "description": "JC Program",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dojorecifetw/dojo-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "mocha",
+    "dojo"
+  ],
+  "author": "JC Program",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dojorecifetw/dojo-javascript/issues"
+  },
+  "homepage": "https://github.com/dojorecifetw/dojo-javascript",
+  "dependencies": {
+    "mocha": "^2.4.5"
+  }
+}
