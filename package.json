@@ -22,7 +22,7 @@
     "url": "https://github.com/dojorecifetw/dojo-javascript/issues"
   },
   "homepage": "https://github.com/dojorecifetw/dojo-javascript",
-  "dependencies": {
-    "mocha": "^2.4.5"
+  "scripts": {
+    "preinstall": "npm install -g mocha"
   }
 }
